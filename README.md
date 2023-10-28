@@ -1,3 +1,5 @@
+![DATA-ANALYSIS-AND-DATA-SCIENCE](https://github.com/Wanves/PythonDataScience/assets/107213869/88ccdd21-c53d-4c78-ab5f-83d232b3f189)
+
 # PythonDataScience**Título: Python: La Poderosa Herramienta para Ciencia de Datos**
 
 En la era actual, donde la información es la clave para la toma de decisiones efectivas, la Ciencia de Datos se ha convertido en un campo de estudio y aplicación de crecimiento exponencial. En el corazón de esta revolución se encuentra Python, un lenguaje de programación que ha ganado popularidad como la herramienta predilecta para los científicos de datos.
